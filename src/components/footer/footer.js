@@ -6,7 +6,7 @@ export default class Footer extends Component {
 				<footer id="footer">
 					<section>
 						<h3>Email</h3>
-						<p><a href="#">mayank.mehmi@gmail.com</a></p>
+						<p><a href="#">bablata48@gmail.com</a></p>
 					</section>
 					<section>
 						<form method="post" action="mailto:mayank.mehmi@gmail.com">
@@ -33,7 +33,7 @@ export default class Footer extends Component {
 					<section>
 						<h3>Social</h3>
 						<ul class="icons alt">
-							<li><a href="http://linkedin.com/in/mayank-610506112" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							{/* <li><a href="http://linkedin.com/in/mayank-610506112" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li> */}
 
 							<li><a href="https://github.com/mayank1-0" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
 						</ul>

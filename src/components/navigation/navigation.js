@@ -13,7 +13,7 @@ export default class Navigation extends Component {
 						<ul class="icons">
 							<li></li>
 							<li></li>
-							<li><a href="http://linkedin.com/in/mayank-610506112" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							{/* <li><a href="http://linkedin.com/in/mayank-610506112" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li> */}
 							<li><a href="https://github.com/mayank1-0" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
