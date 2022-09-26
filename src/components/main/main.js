@@ -21,6 +21,30 @@ export default class Main extends Component {
 							</article>
                             {/* <!-- Posts --> */}
 							<section class="posts">
+							<article>
+									<header>
+		
+										<h2><a href="#">Store-API<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/mayank1-0/node-express-course/tree/commit-2/04-store-api/starter" class="image fit"><img src="images/Store-API.png" alt="" /></a>
+									<p>A store that contains various products for sale.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/mayank1-0/node-express-course/tree/commit-2/04-store-api/starter" class="button">Code</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+		
+										<h2><a href="#">Chatting-App<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/mayank1-0/ChattingApp" class="image fit"><img src="images/Chatting-App.png" alt="" /></a>
+									<p>A chatting web application where users can chat with each other</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/mayank1-0/ChattingApp" class="button">Code</a></li>
+									</ul>
+								</article>
 								<article>
 									<header>
 		
