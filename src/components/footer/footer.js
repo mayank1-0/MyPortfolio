@@ -9,7 +9,7 @@ export default class Footer extends Component {
 						<p><a href="#">bablata48@gmail.com</a></p>
 					</section>
 					<section>
-						<form method="post" action="mailto:mayank.mehmi@gmail.com">
+						<form method="post" action="mailto:bablata48@gmail.com">
 							{/* <div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
