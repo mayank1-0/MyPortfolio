@@ -23,11 +23,11 @@ export default class Main extends Component {
 					<section class="posts">
 						<article>
 							<header>
-								<h2><a href="#">Bake-Land<br />
+								<h2><a href="#">E-Commerce Store Single Vendor-Bakery<br />
 								</a></h2>
 							</header>
 							<a href="https://my-repository-2mcbj05zj-mayank1-0s-projects.vercel.app/" class="image fit"><img src="images/bake-land.png" alt="" /></a>
-							<p>A bakery shop's website</p>
+							<p>A Web-app from where customers can buy <br />and order bakery items like cakes, pastries, savoury and much more.<br />You can add your products and add them to cart to order.</p>
 							<ul class="actions special">
 								<li><label>Private Repository</label></li>
 							</ul>
@@ -41,6 +41,17 @@ export default class Main extends Component {
 							<p>A job portal for tracking the hirings of applicants and also tracking stats of employees</p>
 							<ul class="actions special">
 								<li><a href="https://github.com/mayank1-0/myapp3" class="button">Code</a></li>
+							</ul>
+						</article>
+						<article>
+							<header>
+								<h2><a href="#">Robot Reviews<br />
+								</a></h2>
+							</header>
+							<a href="https://ba9663.wpcomstaging.com/" class="image fit"><img src="images/RobotReviews.png" alt="Robot Reviews" /></a>
+							<p>A web-site where you can find reviews of various robots. <br />A Wordpress project made using Elementor plugin.<br /></p>
+							<ul class="actions special">
+								<li><label>No code (Wordpress project)</label></li>
 							</ul>
 						</article>
 					</section>
