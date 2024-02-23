@@ -27,7 +27,7 @@ export default class Main extends Component {
 								</a></h2>
 							</header>
 							<a href="https://my-repository-2mcbj05zj-mayank1-0s-projects.vercel.app/" class="image fit"><img src="images/bake-land.png" alt="" /></a>
-							<p>A Web-app from where customers can buy <br />and order bakery items like cakes, pastries, savoury and much more.<br />You can add your products and add them to cart to order.</p>
+							<p>A Web-app from where customers can buy and order bakery items like cakes, pastries, savoury and much more. You can add your products and add them to cart to order.</p>
 							<ul class="actions special">
 								<li><label>Private Repository</label></li>
 							</ul>
@@ -37,7 +37,7 @@ export default class Main extends Component {
 								<h2><a href="#">Job Portal<br />
 								</a></h2>
 							</header>
-							<a href="https://github.com/mayank1-0/myapp3" class="image fit"><img src="images/myapp3.png" alt="" /></a>
+							<a href="https://job-portal1-1738.onrender.com/" class="image fit"><img src="images/myapp3.png" alt="" /></a>
 							<p>A job portal for tracking the hirings of applicants and also tracking stats of employees</p>
 							<ul class="actions special">
 								<li><a href="https://github.com/mayank1-0/myapp3" class="button">Code</a></li>
