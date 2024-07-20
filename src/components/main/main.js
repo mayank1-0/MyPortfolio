@@ -43,17 +43,17 @@ export default class Main extends Component {
 								<li><a href="https://github.com/mayank1-0/myapp3" class="button">Code</a></li>
 							</ul>
 						</article>
-						<article>
-							<header>
-								<h2><a href="#">Robot Reviews<br />
-								</a></h2>
-							</header>
-							<a href="https://ba9663.wpcomstaging.com/" class="image fit"><img src="images/RobotReviews.png" alt="Robot Reviews" /></a>
-							<p>A web-site where you can find reviews of various robots. <br />A Wordpress project made using Elementor plugin.<br /></p>
-							<ul class="actions special">
-								<li><label>No code (Wordpress project)</label></li>
-							</ul>
-						</article>
+						// <article>
+						// 	<header>
+						// 		<h2><a href="#">Robot Reviews<br />
+						// 		</a></h2>
+						// 	</header>
+						// 	<a href="https://ba9663.wpcomstaging.com/" class="image fit"><img src="images/RobotReviews.png" alt="Robot Reviews" /></a>
+						// 	<p>A web-site where you can find reviews of various robots. <br />A Wordpress project made using Elementor plugin.<br /></p>
+						// 	<ul class="actions special">
+						// 		<li><label>No code (Wordpress project)</label></li>
+						// 	</ul>
+						// </article>
 					</section>
 				</div>
 				<header id="home">
