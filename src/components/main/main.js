@@ -14,10 +14,6 @@ export default class Main extends Component {
 							</a></h2>
 							<p></p>
 						</header>
-						{/* <a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
-								<ul class="actions special">
-									<li><a href="#" class="button large">Check it out</a></li>
-								</ul> */}
 					</article>
 					{/* <!-- Posts --> */}
 					<section class="posts">
@@ -43,17 +39,39 @@ export default class Main extends Component {
 								<li><a href="https://github.com/mayank1-0/myapp3" class="button">Code</a></li>
 							</ul>
 						</article>
-						// <article>
-						// 	<header>
-						// 		<h2><a href="#">Robot Reviews<br />
-						// 		</a></h2>
-						// 	</header>
-						// 	<a href="https://ba9663.wpcomstaging.com/" class="image fit"><img src="images/RobotReviews.png" alt="Robot Reviews" /></a>
-						// 	<p>A web-site where you can find reviews of various robots. <br />A Wordpress project made using Elementor plugin.<br /></p>
-						// 	<ul class="actions special">
-						// 		<li><label>No code (Wordpress project)</label></li>
-						// 	</ul>
-						// </article>
+						<article>
+							<header>
+								<h2><a href="#">Rohenii<br />
+								</a></h2>
+							</header>
+							<a href="https://rohenii-send.vercel.app/" class="image fit"><img src="images/rohenii.png" alt="" /></a>
+							<p>Rohenii A portal for managing interaction between Hospitals, Insurance Companies and TPAs( Third party administrators ) for working compatability and marking which hospitals to work with and which hospitals to not work with by TPAs and Insurance Companies</p>
+							<ul class="actions special">
+								<li><label>Private Repository</label></li>
+							</ul>
+						</article>
+						<article>
+							<header>
+								<h2><a href="#">Weather Search<br />
+								</a></h2>
+							</header>
+							<a href="https://weather-search-weld.vercel.app/" class="image fit"><img src="images/weather_search.png" alt="" /></a>
+							<p>An app for searching the latitude, longitude and temprature of a location. Just enter location name and click on Find button.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/mayank1-0/weather-search" class="button">Code</a></li>
+							</ul>
+						</article>
+						<article>
+							<header>
+								<h2><a href="#">Movie Search<br />
+								</a></h2>
+							</header>
+							<a href="https://movie-search-indol-eight.vercel.app/" class="image fit"><img src="images/movie-search.png" alt="" /></a>
+							<p>An app for searching movie details. Just enter movie-name and select the movie from the drop-down suggestions.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/mayank1-0/movie-search" class="button">Code</a></li>
+							</ul>
+						</article>
 					</section>
 				</div>
 				<header id="home">
