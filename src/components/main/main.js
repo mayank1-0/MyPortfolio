@@ -22,10 +22,10 @@ export default class Main extends Component {
 								<h2><a href="#">E-Commerce Store Single Vendor-Bakery<br />
 								</a></h2>
 							</header>
-							<a href="https://my-repository-2mcbj05zj-mayank1-0s-projects.vercel.app/" class="image fit"><img src="images/bake-land.png" alt="" /></a>
+							<a href="https://e-commerce-vanilla-js-seven.vercel.app/" class="image fit"><img src="images/bake-land.png" alt="" /></a>
 							<p>A Web-app from where customers can buy and order bakery items like cakes, pastries, savoury and much more. You can add your products and add them to cart to order.</p>
 							<ul class="actions special">
-								<li><label>Private Repository</label></li>
+								<li><a href="https://github.com/mayank1-0/E-Commerce_VanillaJS" class="button">Code</a></li>
 							</ul>
 						</article>
 						<article>
@@ -41,10 +41,21 @@ export default class Main extends Component {
 						</article>
 						<article>
 							<header>
+								<h2><a href="#">ARISE<br />
+								</a></h2>
+							</header>
+							<a href="https://arise-express-react.onrender.com/api-docs/" class="image"><img src="images/Arise.png" alt="Arise" /></a>
+							<p>ARISE is an educational institute for teaching undergraduates and graduates computer skills for example Tally, Python etc.</p>
+							<ul class="actions special">
+								<li><a href="https://github.com/mayank1-0/ARISE-Express-React" class="button">Code</a></li>
+							</ul>
+						</article>
+						<article>
+							<header>
 								<h2><a href="#">Rohenii<br />
 								</a></h2>
 							</header>
-							<a href="https://rohenii-send.vercel.app/" class="image fit"><img src="images/rohenii.png" alt="" /></a>
+							<a href="https://rohenii-send.vercel.app/" class="image"><img src="images/rohenii.png" alt="Rohenii" /></a>
 							<p>Rohenii A portal for managing interaction between Hospitals, Insurance Companies and TPAs( Third party administrators ) for working compatability and marking which hospitals to work with and which hospitals to not work with by TPAs and Insurance Companies</p>
 							<ul class="actions special">
 								<li><label>Private Repository</label></li>
