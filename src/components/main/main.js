@@ -44,7 +44,7 @@ export default class Main extends Component {
 								<h2><a href="#">ARISE<br />
 								</a></h2>
 							</header>
-							<a href="https://arise-express-react.onrender.com/api-docs/" class="image"><img src="images/Arise.png" alt="Arise" /></a>
+							<a href="https://arise-express-react.onrender.com/api-docs/" class="image fit"><img src="images/Arise.png" alt="Arise" /></a>
 							<p>ARISE is an educational institute for teaching undergraduates and graduates computer skills for example Tally, Python etc.</p>
 							<ul class="actions special">
 								<li><a href="https://github.com/mayank1-0/ARISE-Express-React" class="button">Code</a></li>
@@ -55,7 +55,7 @@ export default class Main extends Component {
 								<h2><a href="#">Rohenii<br />
 								</a></h2>
 							</header>
-							<a href="https://rohenii-send.vercel.app/" class="image"><img src="images/rohenii.png" alt="Rohenii" /></a>
+							<a href="https://rohenii-send.vercel.app/" class="image fit"><img src="images/rohenii.png" alt="Rohenii" /></a>
 							<p>Rohenii A portal for managing interaction between Hospitals, Insurance Companies and TPAs( Third party administrators ) for working compatability and marking which hospitals to work with and which hospitals to not work with by TPAs and Insurance Companies</p>
 							<ul class="actions special">
 								<li><label>Private Repository</label></li>
