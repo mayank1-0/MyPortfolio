@@ -24,7 +24,7 @@ export default class Footer extends Component {
 										<textarea name="message" id="message" rows="3"></textarea>
 									</div>
 								</div> */}
-							<ul class="actions">
+							<ul className="actions">
 								<li><input type="submit" value="Send Mail" /></li>
 							</ul>
 						</form>
@@ -32,9 +32,9 @@ export default class Footer extends Component {
 
 					<section>
 						<h3>Social</h3>
-						<ul class="icons alt">
-							<li><a href="http://linkedin.com/in/mayank-610506112" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/mayank1-0" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						<ul className="icons alt">
+							<li><a href="http://linkedin.com/in/mayank-610506112" className="icon brands alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/mayank1-0" className="icon brands alt fa-github"><span className="label">GitHub</span></a></li>
 						</ul>
 					</section>
 				</footer>

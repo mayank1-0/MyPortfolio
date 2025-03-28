@@ -11,7 +11,7 @@ export default class About extends Component {
 						<p>I develop web-apps
 						</p>
 						<ul class="actions">
-							<li><a class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+							<li><a href="#main" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
 					</div>
         </section>
