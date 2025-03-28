@@ -40,6 +40,17 @@ export default class Main extends Component {
 						</article>
 						<article>
 							<header>
+								<h2><a href="https://ecommerce-five-phi-40.vercel.app/">E-Commerce MERN app<br />
+								</a></h2>
+							</header>
+							<a href="https://ecommerce-five-phi-40.vercel.app/" className="image fit"><img src="images/ecommerce.png" alt="" /></a>
+							<p>An E-Commerce store for buying variety of products. The app has features like Add to Cart, Authentication, Authorization, Forgot-Reset password, Checkout, Adding shipping address. Made in MERN stack</p>
+							<ul className="actions special">
+								<li><a href="https://github.com/mayank1-0/ecommerce" className="button">Code</a></li>
+							</ul>
+						</article>
+						<article>
+							<header>
 								<h2><a href="https://arise-express-react.onrender.com/api-docs/">ARISE<br />
 								</a></h2>
 							</header>
